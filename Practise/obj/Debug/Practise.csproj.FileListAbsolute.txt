@@ -1,0 +1,6 @@
+D:\NNNNNNNNNNNNehpetsASIM16091977\Practise\Practise\bin\Debug\Practise.exe.config
+D:\NNNNNNNNNNNNehpetsASIM16091977\Practise\Practise\bin\Debug\Practise.exe
+D:\NNNNNNNNNNNNehpetsASIM16091977\Practise\Practise\bin\Debug\Practise.pdb
+D:\NNNNNNNNNNNNehpetsASIM16091977\Practise\Practise\obj\Debug\Practise.csprojResolveAssemblyReference.cache
+D:\NNNNNNNNNNNNehpetsASIM16091977\Practise\Practise\obj\Debug\Practise.exe
+D:\NNNNNNNNNNNNehpetsASIM16091977\Practise\Practise\obj\Debug\Practise.pdb
