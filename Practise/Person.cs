@@ -404,7 +404,7 @@ namespace Practise
     //                        ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3;
     //                    }
     //                }
-    //                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://mlexpress.mlhuillier1.com/Walletbatchupload/Service.svc/ReportsData/?batchnumber=2019081612312700552") as HttpWebRequest;
+    //                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("") as HttpWebRequest;
     //                request.Method = "GET";
     //                request.ContentType = "application/json";
     //                request.Credentials = CredentialCache.DefaultCredentials;
@@ -491,7 +491,7 @@ namespace Practise
     //                        ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3;
     //                    }
     //                }
-    //                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://mlexpress.mlhuillier1.com/Walletbatchupload/Service.svc/LoadedTransactions/?date=2019-08-16&limitFrom=0&limitTo=10000&type=0") as HttpWebRequest;
+    //                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("") as HttpWebRequest;
     //                request.Method = "GET";
     //                request.ContentType = "application/json";
     //                request.Credentials = CredentialCache.DefaultCredentials;
@@ -634,7 +634,7 @@ namespace Practise
     //    static void Main()
     //    {
     //        string date = "20180517";
-    //        //string text = File.ReadAllText(@"\\192.168.17.8\c$\kpwslogs\WalletBatchUpload\6.0\BatchUpload_" + date + ".log.2");
+    //        //string text = File.ReadAllText(@"_" + date + ".log.2");
     //        string text = File.ReadAllText(@"C:\\kpwslogs\ECommerce\2.0\Ecommerce_" + date + ".log");
     //        Console.WriteLine(text);
     //        Console.ReadLine();
